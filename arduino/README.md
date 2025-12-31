@@ -2,7 +2,13 @@ arduino/README.md
 
 # Arduino Experiments
 
-This folder contains beginner Arduino projects focused on understanding microcontroller fundamentals such as digital I/O, timing, and sensor input.
+This folder contains beginner level Arduino projects focused on understanding core microcontroller concepts through hands on experimentation.
+
+## Topics covered
+-Digital input/output (GPIO)
+-Timing and delays
+-Basic program structure
+-Interfacing with simple components
 
 ## Demo Video
 
